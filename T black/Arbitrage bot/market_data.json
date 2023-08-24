@@ -1,5 +1,20 @@
-{
-    "price": "0.54450000",
-    "volume": "37819594.08534000",
-    "liquidity_score": null
-}
+[
+    {
+        "exchange": "Kraken",
+        "asset": "MATIC",
+        "trading_pair": "MATICEUR",
+        "price": "0.500400",
+        "volume": "209788.11374127",
+        "liquidity_score": null,
+        "fetch_time": "2023-08-24 17:13:03"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "price": "0.54300000",
+        "volume": "37502352.54405000",
+        "liquidity_score": null,
+        "fetch_time": "2023-08-24 17:13:45"
+    }
+]

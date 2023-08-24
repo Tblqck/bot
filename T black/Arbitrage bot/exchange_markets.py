@@ -9,12 +9,13 @@ exchange_market_lists = {
         'ETH': 'ETHUSDT',
         'QUICK':'QUICKUSDT',
         
+        
         # Add or modify more assets and trading pairs for Binance
     },
     
 #---------------------------------------------------------------------------------------------------------------
     'Kraken': {
-        'MATIC': 'MATICEUR',
+        'MATIC': 'MATICUSD',
         'BTC': 'XBTUSD',
         'ETH': 'ETHUSD',
         # Add or modify more assets and trading pairs for Kraken
