@@ -1,10 +1,14 @@
 # exchange_markets.py
 
+# exchange_markets.py
+
 exchange_market_lists = {
     'Binance': {
         'MATIC': 'MATICUSDT',
-        'BTC': 'BTCUSDT',
+        'AAVE': 'AAVEUSDT',
         'ETH': 'ETHUSDT',
+        'QUICK':'QUICKUSDT',
+        
         # Add or modify more assets and trading pairs for Binance
     },
     

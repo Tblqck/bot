@@ -1,1 +1,5 @@
-{"exchange": "Binance", "asset": "MATIC", "trading_pair": "MATICUSDT", "price": "0.55080000", "volume": "36363621.49893000", "liquidity_score": null, "fetch_time": "2023-08-24 14:39:16"}
+{
+    "price": "0.54450000",
+    "volume": "37819594.08534000",
+    "liquidity_score": null
+}
