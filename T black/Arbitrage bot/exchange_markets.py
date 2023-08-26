@@ -22,5 +22,19 @@ exchange_market_lists = {
     },
     
 #---------------------------------------------------------------------------------------------------------------
+    'coinbase': {
+        'MATIC': 'MATIC-USD',
+        'BTC': 'XBTUSD',
+        'ETH': 'ETHUSD',
+        # Add or modify more assets and trading pairs for Kraken
+    },
+#---------------------------------------------------------------------------------------------------------------
+    'Bittrex': {
+        'MATIC':'MATIC-USDT',
+        'BTC': 'XBTUSD',
+        'ETH': 'ETHUSD',
+        # Add or modify more assets and trading pairs for Kraken
+    },
+    
     # Add or modify more exchanges and their asset mappings here
 }

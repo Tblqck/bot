@@ -2,19 +2,28 @@
     {
         "exchange": "Kraken",
         "asset": "MATIC",
-        "trading_pair": "MATICEUR",
-        "price": "0.500400",
-        "volume": "209788.11374127",
+        "trading_pair": "MATICUSD",
+        "price": "0.546400",
+        "volume": "215794.52278399",
         "liquidity_score": null,
-        "fetch_time": "2023-08-24 17:13:03"
+        "fetch_time": "2023-08-26 14:04:36"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USD",
+        "price": "0.5464",
+        "volume": "3230691.6",
+        "liquidity_score": null,
+        "fetch_time": "2023-08-26 14:07:04"
     },
     {
         "exchange": "Binance",
         "asset": "MATIC",
         "trading_pair": "MATICUSDT",
-        "price": "0.54300000",
-        "volume": "37502352.54405000",
+        "price": "0.54680000",
+        "volume": "16611385.73209000",
         "liquidity_score": null,
-        "fetch_time": "2023-08-24 17:13:45"
+        "fetch_time": "2023-08-26 14:07:33"
     }
 ]
