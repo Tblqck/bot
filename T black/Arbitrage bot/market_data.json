@@ -1,29 +1,85 @@
 [
     {
-        "exchange": "Kraken",
+        "exchange": "Huobi",
+        "asset": "BADGER",
+        "trading_pair": "badgerusdt",
+        "price": 2.0305,
+        "volume": 344089.9955581771,
+        "liquidity_score": null,
+        "fetch_time": "2023-08-29 12:21:23"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "BADGER",
+        "trading_pair": "badgerusdt",
+        "price": 2.0285,
+        "volume": 349340.72274918715,
+        "liquidity_score": null,
+        "fetch_time": "2023-08-29 12:40:51"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "BADGER",
+        "trading_pair": "badgerusdt",
+        "price": 2.0282,
+        "volume": 349420.72330678714,
+        "liquidity_score": null,
+        "fetch_time": "2023-08-29 12:41:07"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USDT",
+        "timestamp": "1693314360000",
+        "open": "0.5564",
+        "high": "0.5564",
+        "low": "0.5559",
+        "close": "0.5559",
+        "volume": "1"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USDT",
+        "timestamp": "1693314540000",
+        "open": "0.5558",
+        "high": "0.5559",
+        "low": "0.5556",
+        "close": "0.5556",
+        "volume": "1"
+    },
+    {
+        "exchange": "Bitstamp",
         "asset": "MATIC",
         "trading_pair": "MATICUSD",
-        "price": "0.546400",
-        "volume": "215794.52278399",
+        "price": "0.57463",
+        "volume": "924644.71754048",
         "liquidity_score": null,
-        "fetch_time": "2023-08-26 14:04:36"
+        "fetch_time": "2023-08-30 13:46:01"
     },
     {
-        "exchange": "Coinbase",
+        "exchange": "Bitstamp",
         "asset": "MATIC",
-        "trading_pair": "MATIC-USD",
-        "price": "0.5464",
-        "volume": "3230691.6",
+        "trading_pair": "MATICUSD",
+        "price": "27382",
+        "volume": "4931.59608780",
         "liquidity_score": null,
-        "fetch_time": "2023-08-26 14:07:04"
+        "fetch_time": "2023-08-30 14:05:19"
     },
     {
-        "exchange": "Binance",
-        "asset": "MATIC",
-        "trading_pair": "MATICUSDT",
-        "price": "0.54680000",
-        "volume": "16611385.73209000",
+        "exchange": "Bitstamp",
+        "asset": "AAVE",
+        "trading_pair": "AAVEUSD",
+        "price": "27382",
+        "volume": "4927.18033511",
         "liquidity_score": null,
-        "fetch_time": "2023-08-26 14:07:33"
+        "fetch_time": "2023-08-30 14:05:35"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USDT",
+        "price": "0.580420000000",
+        "fetch_time": "2023-08-30 14:21:31"
     }
 ]
