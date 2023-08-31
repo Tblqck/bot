@@ -81,5 +81,23 @@
         "trading_pair": "MATIC-USDT",
         "price": "0.580420000000",
         "fetch_time": "2023-08-30 14:21:31"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "BADGER",
+        "trading_pair": "BADGERUSDT",
+        "price": "2.04500000",
+        "volume": "358190.76747000",
+        "liquidity_score": null,
+        "fetch_time": "2023-08-31 10:56:28"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "MATIC",
+        "trading_pair": "MATIC_USDT",
+        "price": "0.55788",
+        "volume": "162168.1000",
+        "liquidity_score": null,
+        "fetch_time": "2023-08-31 17:49:19"
     }
 ]

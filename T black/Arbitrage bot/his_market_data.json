@@ -4398,5 +4398,605 @@
         "high": "0.589010000000",
         "low": "0.580420000000",
         "close": "0.580420000000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 09:57:00",
+        "open": "0.05111000",
+        "high": "0.05148000",
+        "low": "0.05008000",
+        "close": "0.05123000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 09:58:00",
+        "open": "0.05123000",
+        "high": "0.05158000",
+        "low": "0.05098000",
+        "close": "0.05146000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 09:59:00",
+        "open": "0.05150000",
+        "high": "0.05158000",
+        "low": "0.05100000",
+        "close": "0.05138000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:00:00",
+        "open": "0.05131000",
+        "high": "0.05132000",
+        "low": "0.05034000",
+        "close": "0.05100000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:01:00",
+        "open": "0.05101000",
+        "high": "0.05188000",
+        "low": "0.05100000",
+        "close": "0.05188000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:02:00",
+        "open": "0.05183000",
+        "high": "0.05298000",
+        "low": "0.05180000",
+        "close": "0.05276000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:03:00",
+        "open": "0.05268000",
+        "high": "0.05300000",
+        "low": "0.05164000",
+        "close": "0.05234000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:04:00",
+        "open": "0.05238000",
+        "high": "0.05320000",
+        "low": "0.05238000",
+        "close": "0.05269000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:05:00",
+        "open": "0.05285000",
+        "high": "0.05298000",
+        "low": "0.05205000",
+        "close": "0.05219000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:06:00",
+        "open": "0.05219000",
+        "high": "0.05250000",
+        "low": "0.05165000",
+        "close": "0.05235000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:07:00",
+        "open": "0.05245000",
+        "high": "0.05274000",
+        "low": "0.05196000",
+        "close": "0.05199000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:08:00",
+        "open": "0.05197000",
+        "high": "0.05259000",
+        "low": "0.05156000",
+        "close": "0.05232000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:09:00",
+        "open": "0.05229000",
+        "high": "0.05235000",
+        "low": "0.05187000",
+        "close": "0.05196000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:10:00",
+        "open": "0.05200000",
+        "high": "0.05206000",
+        "low": "0.05171000",
+        "close": "0.05179000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:11:00",
+        "open": "0.05177000",
+        "high": "0.05201000",
+        "low": "0.05171000",
+        "close": "0.05201000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:12:00",
+        "open": "0.05201000",
+        "high": "0.05201000",
+        "low": "0.05171000",
+        "close": "0.05174000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:13:00",
+        "open": "0.05172000",
+        "high": "0.05198000",
+        "low": "0.05171000",
+        "close": "0.05186000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:14:00",
+        "open": "0.05188000",
+        "high": "0.05200000",
+        "low": "0.05180000",
+        "close": "0.05200000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:15:00",
+        "open": "0.05194000",
+        "high": "0.05312000",
+        "low": "0.05165000",
+        "close": "0.05290000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:16:00",
+        "open": "0.05289000",
+        "high": "0.05355000",
+        "low": "0.05263000",
+        "close": "0.05346000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:17:00",
+        "open": "0.05325000",
+        "high": "0.05343000",
+        "low": "0.05262000",
+        "close": "0.05283000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:18:00",
+        "open": "0.05282000",
+        "high": "0.05285000",
+        "low": "0.05239000",
+        "close": "0.05240000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:19:00",
+        "open": "0.05241000",
+        "high": "0.05283000",
+        "low": "0.05240000",
+        "close": "0.05267000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:20:00",
+        "open": "0.05268000",
+        "high": "0.05300000",
+        "low": "0.05267000",
+        "close": "0.05298000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:21:00",
+        "open": "0.05300000",
+        "high": "0.05300000",
+        "low": "0.05282000",
+        "close": "0.05294000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:22:00",
+        "open": "0.05294000",
+        "high": "0.05296000",
+        "low": "0.05262000",
+        "close": "0.05270000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:23:00",
+        "open": "0.05270000",
+        "high": "0.05270000",
+        "low": "0.05175000",
+        "close": "0.05189000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:24:00",
+        "open": "0.05189000",
+        "high": "0.05200000",
+        "low": "0.05170000",
+        "close": "0.05175000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:25:00",
+        "open": "0.05175000",
+        "high": "0.05176000",
+        "low": "0.05043000",
+        "close": "0.05052000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:26:00",
+        "open": "0.05052000",
+        "high": "0.05109000",
+        "low": "0.05043000",
+        "close": "0.05098000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:27:00",
+        "open": "0.05093000",
+        "high": "0.05200000",
+        "low": "0.05093000",
+        "close": "0.05188000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:28:00",
+        "open": "0.05191000",
+        "high": "0.05193000",
+        "low": "0.05150000",
+        "close": "0.05160000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:29:00",
+        "open": "0.05166000",
+        "high": "0.05174000",
+        "low": "0.05103000",
+        "close": "0.05135000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:30:00",
+        "open": "0.05138000",
+        "high": "0.05139000",
+        "low": "0.05060000",
+        "close": "0.05095000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:31:00",
+        "open": "0.05094000",
+        "high": "0.05115000",
+        "low": "0.05030000",
+        "close": "0.05050000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:32:00",
+        "open": "0.05049000",
+        "high": "0.05170000",
+        "low": "0.05043000",
+        "close": "0.05167000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:33:00",
+        "open": "0.05160000",
+        "high": "0.05160000",
+        "low": "0.05043000",
+        "close": "0.05053000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:34:00",
+        "open": "0.05056000",
+        "high": "0.05062000",
+        "low": "0.04970000",
+        "close": "0.05006000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:35:00",
+        "open": "0.04998000",
+        "high": "0.05020000",
+        "low": "0.04937000",
+        "close": "0.04937000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:36:00",
+        "open": "0.04937000",
+        "high": "0.04944000",
+        "low": "0.04853000",
+        "close": "0.04928000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:37:00",
+        "open": "0.04920000",
+        "high": "0.04960000",
+        "low": "0.04909000",
+        "close": "0.04919000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:38:00",
+        "open": "0.04925000",
+        "high": "0.04941000",
+        "low": "0.04899000",
+        "close": "0.04937000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:39:00",
+        "open": "0.04932000",
+        "high": "0.04972000",
+        "low": "0.04927000",
+        "close": "0.04963000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:40:00",
+        "open": "0.04961000",
+        "high": "0.04991000",
+        "low": "0.04950000",
+        "close": "0.04973000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:41:00",
+        "open": "0.04973000",
+        "high": "0.04975000",
+        "low": "0.04905000",
+        "close": "0.04905000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:42:00",
+        "open": "0.04905000",
+        "high": "0.04933000",
+        "low": "0.04900000",
+        "close": "0.04924000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:43:00",
+        "open": "0.04927000",
+        "high": "0.04953000",
+        "low": "0.04901000",
+        "close": "0.04942000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:44:00",
+        "open": "0.04942000",
+        "high": "0.04978000",
+        "low": "0.04935000",
+        "close": "0.04965000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:45:00",
+        "open": "0.04965000",
+        "high": "0.04972000",
+        "low": "0.04929000",
+        "close": "0.04938000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:46:00",
+        "open": "0.04940000",
+        "high": "0.05009000",
+        "low": "0.04940000",
+        "close": "0.05000000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:47:00",
+        "open": "0.05000000",
+        "high": "0.05030000",
+        "low": "0.05000000",
+        "close": "0.05020000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:48:00",
+        "open": "0.05020000",
+        "high": "0.05050000",
+        "low": "0.05015000",
+        "close": "0.05038000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:49:00",
+        "open": "0.05038000",
+        "high": "0.05038000",
+        "low": "0.05000000",
+        "close": "0.05000000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:50:00",
+        "open": "0.05001000",
+        "high": "0.05033000",
+        "low": "0.05000000",
+        "close": "0.05013000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:51:00",
+        "open": "0.05014000",
+        "high": "0.05032000",
+        "low": "0.05000000",
+        "close": "0.05007000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:52:00",
+        "open": "0.05004000",
+        "high": "0.05026000",
+        "low": "0.05003000",
+        "close": "0.05003000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:53:00",
+        "open": "0.05004000",
+        "high": "0.05004000",
+        "low": "0.04933000",
+        "close": "0.04936000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:54:00",
+        "open": "0.04938000",
+        "high": "0.04948000",
+        "low": "0.04827000",
+        "close": "0.04882000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:55:00",
+        "open": "0.04882000",
+        "high": "0.04900000",
+        "low": "0.04848000",
+        "close": "0.04898000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "timestamp": "2023-08-31 10:56:00",
+        "open": "0.04898000",
+        "high": "0.04900000",
+        "low": "0.04848000",
+        "close": "0.04853000"
     }
 ]
