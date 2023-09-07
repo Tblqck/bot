@@ -1,0 +1,29 @@
+  "binance",/ {good data}
+    "coinbase-pro",/ {good data}
+    "kraken",/ {good data}
+    "bittrex",/ {good data-----BUT NO LIQUIDITY SCORE ....BECAUSE NO VOLUME }
+    "huobi",/ {good data}
+    "okex"(X)/ {no good data -----BUT NO LIQUIDITY SCORE ....BECAUSE olny return data for only one token ......thats is volume is always 1 },
+    "bitstamp",/ {good data-----BUT NO HISTORYCAL DATA}
+    "gemini",(X2){no data}
+    "kucoin",(x1)
+    "poloniex",
+    "bitflyer",
+    "hitbtc",
+    "liquid",
+    "gate-io",
+    "bitmart",
+    "probit",
+    "coinex",
+    "coincheck",
+    "luno",
+    "wazirx",
+    "upbit",
+    "exmo",
+    "coinone",
+    "bitbank",[PLEASE CHECK SYMBOL]
+    "btcc",
+    "bitso",
+    "zb-com",
+    "cex-io",
+    "livecoin"

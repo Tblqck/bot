@@ -1,0 +1,25 @@
+'Binance
+'Bitmart_functions.ipynb',
+'Bitstamp_functions.ipynb',
+'Bittrex_functions.ipynb',
+'Bybit_functions.ipynb',
+'Cexio_functions.ipynb',
+'coinbase_functions.ipynb',
+'Coinex_functions.ipynb',
+'crypto.com_functions.ipynb',
+'Hitbtc_functions.ipynb',
+'huobi_functions.ipynb',
+'kraken_functions.ipynb',
+'kucoin_functions.ipynb',
+'mexc_functions.ipynb',
+'Probit_functions.ipynb',
+'Wazirx_functions.ipynb',
+
+
+
+1) once i run the bot i should be promted to put in the asset i want to fetch 
+2) the bot  runs the binance def for fetching present data (fetch_present_data_and_save_binance)
+3) the bot then inputs my input to (fetch_present_data_and_save_binance)
+4) note (fetch_present_data_and_save_binance) does all that is required of it so do not change anything apart from the input style.
+
+Arbitrage bot
